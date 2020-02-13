@@ -11,3 +11,4 @@
 - Before starting the game, a winning point must have to be chosen.
 
 - The first player to reach specified winning points on GLOBAL score wins the game.
+- This site is hosted at https://apurbostarry.github.io/Dice-Game-2/index.html
